@@ -2,7 +2,8 @@
 # Django Ecommerce-Project
 
 
-https://github.com/user-attachments/assets/5e9e6c4f-e742-41cf-a209-aa86e9e76e5d
+
+https://github.com/user-attachments/assets/389be36f-4c1d-4b5b-a4fc-4e941936e003
 
 
 ## Overview
