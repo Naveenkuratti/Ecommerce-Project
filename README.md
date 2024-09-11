@@ -1,4 +1,4 @@
-# Django Ecommerce-Project
+# Django Ecommerce Full stack Project 
 
  
  
