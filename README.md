@@ -1,6 +1,10 @@
 # Django Ecommerce-Project
 
-![Project Screenshot](https://github.com/user-attachments/assets/389be36f-4c1d-4b5b-a4fc-4e941936e003)
+
+
+https://github.com/user-attachments/assets/808d38d4-d84c-47f0-bccf-f7053a2d8f24
+
+
 
 ## Overview
 
