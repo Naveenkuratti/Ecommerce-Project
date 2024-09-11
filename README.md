@@ -1,6 +1,10 @@
 
 # Django Ecommerce-Project
 
+
+https://github.com/user-attachments/assets/5e9e6c4f-e742-41cf-a209-aa86e9e76e5d
+
+
 ## Overview
 
 This Django project showcases a complete eCommerce application with features such as user login authentication, product categorization, shopping cart functionality, wishlist management, and Razorpay payment gateway integration.
