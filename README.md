@@ -1,8 +1,6 @@
 
 # Django Ecommerce-Project
 
-![Views Badge](https://img.shields.io/badge/Views-288,154-brightgreen) ![Date Badge](https://img.shields.io/badge/Date-18%20Oct%202022-blue)
-
 ## Overview
 
 This Django project showcases a complete eCommerce application with features such as user login authentication, product categorization, shopping cart functionality, wishlist management, and Razorpay payment gateway integration.
