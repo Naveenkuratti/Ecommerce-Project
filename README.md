@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/808d38d4-d84c-47f0-bccf-f7053a2d8f24
 
 
 
-## Overview
+## Overview 
 
 The **Django Ecommerce-Project** is a fully functional online shopping platform built using Django. This project provides a complete solution for managing an eCommerce website, including user management, product handling, shopping cart functionality, and payment processing. It is designed to offer a smooth and secure shopping experience with various features that cater to both customers and administrators.
 
